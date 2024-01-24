@@ -1,0 +1,41 @@
+{
+    "correctArtist": {
+      "artistName": "Pablo Picasso",
+      "dataName": "pablo-picasso",
+      "painting": {
+        "title": "Girl before a Mirror",
+        "date": "1932",
+        "url": "images/picasso/girl_before_a_mirror.jpg"
+      }
+    },
+    "incorrectArtists": [
+      {
+        "artistName": "Leonardo Da Vinci",
+        "dataName": "da-vinci",
+        "painting": {
+          "title": "The Last Supper",
+          "date": "1495–1498",
+          "url": "images/da-vinci/last_supper.jpg"
+        }
+      },
+      {
+        "artistName": "Vincent van Gogh",
+        "dataName": "van-gogh",
+        "painting": {
+          "title": "Cafe Terrace at Night",
+          "date": "1888",
+          "url": "images/van-gogh/cafe_terrace_at_night.jpg"
+        }
+      },
+      {
+        "artistName": "Andy Warhol",
+        "dataName": "andy-warhol",
+        "painting": {
+          "title": "Campbell's Soup Cans",
+          "date": "1962",
+          "url": "images/andy-warhol/campbells-soup.png"
+        }
+      }
+    ]
+  }
+  
