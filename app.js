@@ -13,9 +13,9 @@ app.use(express.json())
     Endpoint methods
 */
 
-// app.get('/', (req, res) => {
-//     res.send("Welcome");
-// })
+app.get('/', (req, res) => {
+    res.send("Welcome");
+})
 
 app.get(
     '/artist-bio',
