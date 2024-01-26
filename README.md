@@ -2,7 +2,7 @@
 
 ## Description
 
-An art recognition game aimed at children ages 14+ to test their knowledge on famous artists! Access the project here: https://henriettacodes.github.io/LFA---P1---Frontend/
+An art recognition game aimed at children ages 14+ to test their knowledge on famous artists! Access the live project here: https://henriettacodes.github.io/LFA---P1---Frontend/
 
 This project was created following a brief we were provided as a team, where we had a problem statement to address. A secondary school has faced a problem, where they noticed a lack of engagement in non-STEM subjects, over the last two years and need a solution on how they can overcome this. We were tasked to come up with a solution that places engaging learning as well improved retention of the knowledge at the heart of the learning experience. When looking at a list of subjects taught in secondary schools, as a group we decided art/art history was the one we had the most interest and appreciation for. We put our efforts into creating a solution for the school to overcome their main concerns, in turn increasing student performance in non-STEM subjects.
 
@@ -14,7 +14,7 @@ This project was created following a brief we were provided as a team, where we 
 * Once inside the directory in your terminal run: npm init → npm install express → npm install cors - npm install -D nodemon
 * Lastly in your terminal enter: code . which will open the project.
 * Inside the artists.json file is the json data for the application which is used for the game.
-* Inside app.js here theres a get request when landing on painting-recognition which is what sends the artistdata.
+* Inside app.js theres a get request when landing on painting-recognition which is what sends the artistdata.
 
 ## Prerequisites
 * Node.js
