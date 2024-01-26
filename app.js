@@ -1,8 +1,5 @@
 const express = require('express');
 const cors = require('cors'); 
-const artistsData = require("./artists.json")
-
-// const artistsData = require("./data/artists.json");
 
 // Import static mock data for Picasso
 const picassoData = require('./data/artist-bios/pablo-picasso.json');
