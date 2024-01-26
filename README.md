@@ -45,7 +45,8 @@ This project was created following a brief we were provided as a team, where we 
 * The backend server needed to be 'spun up' in order to operate as efficiently as we planned. This was remedied by adding a fetch request on the dashboard page to 'wake up' the backend server.
 
 ## Future features:
-* A database enabling working user-profiles, score-system & social leaderboard.
+* A database enabling working user-profiles, score-system & social leader-board.
+* More data held so the game can be based on the original 4 artists we decided on.
 * Additional game modes.
 * A dashboard for teachers to add further artists + tests. As well as letting them know how the students are performing.
 
