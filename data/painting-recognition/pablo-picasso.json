@@ -47,37 +47,37 @@
         "title": "Three Musicians",
         "date": "1921",
         "url": "images/picasso/three_musicians.jpg"
-      },
-      "incorrectArtists": [
-        {
-          "artistName": "Leonardo Da Vinci",
-          "dataName": "da-vinci",
-          "painting": {
-            "title": "Mona Lisa",
-            "date": "1503-1506",
-            "url": "images/da-vinci/mona_lisa.jpg"
-          }
-        },
-        {
-          "artistName": "Vincent van Gogh",
-          "dataName": "van-gogh",
-          "painting": {
-            "title": "Sunflowers",
-            "date": "1888",
-            "url": "images/van-gogh/sunflowers.jpg"
-          }
-        },
-        {
-          "artistName": "Andy Warhol",
-          "dataName": "andy-warhol",
-          "painting": {
-            "title": "Marilyn Diptych",
-            "date": "1962",
-            "url": "images/andy-warhol/marilyn_diptych.png"
-          }
+      }
+    },
+    "incorrectArtists": [
+      {
+        "artistName": "Leonardo Da Vinci",
+        "dataName": "da-vinci",
+        "painting": {
+          "title": "Mona Lisa",
+          "date": "1503-1506",
+          "url": "images/da-vinci/mona_lisa.jpg"
         }
-      ]
-    }
+      },
+      {
+        "artistName": "Vincent van Gogh",
+        "dataName": "van-gogh",
+        "painting": {
+          "title": "Sunflowers",
+          "date": "1888",
+          "url": "images/van-gogh/sunflowers.jpg"
+        }
+      },
+      {
+        "artistName": "Andy Warhol",
+        "dataName": "andy-warhol",
+        "painting": {
+          "title": "Marilyn Diptych",
+          "date": "1962",
+          "url": "images/andy-warhol/marilyn_diptych.png"
+        }
+      }
+    ]
   },
   {
     "correctArtist": {
@@ -87,36 +87,36 @@
         "title": "Portrait of Daniel-Henry Kahnweiler",
         "date": "1910",
         "url": "images/picasso/daniel-henry_kahnweiler.jpg"
-      },
-      "incorrectArtists": [
-        {
-          "artistName": "Leonardo Da Vinci",
-          "dataName": "da-vinci",
-          "painting": {
-            "title": "Saint John the Baptist",
-            "date": "1513-1516",
-            "url": "st_john_baptist.jpg"
-          }
-        },
-        {
-          "artistName": "Vincent van Gogh",
-          "dataName": "van-gogh",
-          "painting": {
-            "title": "The Starry Night ",
-            "date": "1889",
-            "url": "images/van-gogh/starry_night.jpg"
-          }
-        },
-        {
-          "artistName": "Andy Warhol",
-          "dataName": "andy-warhol",
-          "painting": {
-            "title": "Eight Elvises",
-            "date": "1963",
-            "url": "images/andy-warhol/eight_elves.png"
-          }
+      }
+    },
+    "incorrectArtists": [
+      {
+        "artistName": "Leonardo Da Vinci",
+        "dataName": "da-vinci",
+        "painting": {
+          "title": "Saint John the Baptist",
+          "date": "1513-1516",
+          "url": "images/da-vinci/st_john_baptist.jpg"
         }
-      ]
-    }
+      },
+      {
+        "artistName": "Vincent van Gogh",
+        "dataName": "van-gogh",
+        "painting": {
+          "title": "The Starry Night",
+          "date": "1889",
+          "url": "images/van-gogh/starry_night.jpg"
+        }
+      },
+      {
+        "artistName": "Andy Warhol",
+        "dataName": "andy-warhol",
+        "painting": {
+          "title": "Eight Elvises",
+          "date": "1963",
+          "url": "images/andy-warhol/eight_elvises.jpg"
+        }
+      }
+    ]
   }
 ]
